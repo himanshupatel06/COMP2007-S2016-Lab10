@@ -5,6 +5,10 @@ using System.Web;
 
 namespace COMP2007_S2016_Lab10.Controllers
 {
+    /**
+     *@name:Himashu PAtel 
+     * @id:200306422
+     */
     public partial class Genre
     {
         public int GenreId { get; set; }
